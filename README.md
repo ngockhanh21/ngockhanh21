@@ -1,35 +1,35 @@
-# Khanh-Bui
-# Hi there, I'm Bùi Ngọc Khánh 👋
-### 🚀 Aspiring AI Engineer | Competitive Programmer | 1st Year Student @ Thuy Loi University
+<h1 align="center">Hi guys 👋, I'm Khanh Bui</h1>
+<h3 align="center">Freshman @ TLU | Passionate about AI Research & Development</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngockhanh21&label=Profile%20views&color=0e75b6&style=flat" alt="ngockhanh21" /> </p>
 
-### 💫 About Me:
-- 🔭 I’m currently a freshman at **Thuy Loi University (TLU)**.
-- 🎯 My goal is to become an **AI Engineer** and solve real-world problems.
-- 🏆 Passionate about **Competitive Programming** and currently training for **ICPC**.
-- 🛠️ Recently mastered setting up **GitHub Copilot** to speed up my workflow.
-- 🌱 I’m currently learning: **Advanced C++** and **Python for Machine Learning**.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngockhanh21" alt="ngockhanh21" /></a> </p>
 
----
+- 🔭 I’m currently a freshman at **Thuy Loi University (TLU)**
 
-### 🛠 Tech Stack:
+- 🌱 I’m currently learning **Programming Languages, AI,**
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![C++] (https://img.shields.io/badge/any_text-you_like-blue) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **AI & Data** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+- 🎯 My goal is to become **an AI Engineer and solve real-world problems.**
 
----
+- 🛠️ Recently mastered **setting up GitHub Copilot to speed up my workflow.**
 
-### 📊 GitHub Stats:
+- 🏆 Passionate about **Competitive Programming and currently training for ICPC.**
+
+- 📫 How to reach me **khanhngocbui.ai@gmail.com**
+
+- 🌱 I’m currently learning **Advanced C++ and Python for Machine Learning.**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<a href="https://www.hackerrank.com/khanhngocbui_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khanhngocbui_ai" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ngockhanh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ngockhanh21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/khanh bui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khanh bui" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 📫 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](YOUR_FB_LINK_HERE)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK_HERE)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngockhanh21&show_icons=true&locale=en&layout=compact" alt="ngockhanh21" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngockhanh21&" alt="ngockhanh21" /></p>
+
