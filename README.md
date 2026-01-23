@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngockhanh21&label=Profile%20views&color=0e75b6&style=flat" alt="ngockhanh21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngockhanh21" alt="ngockhanh21" /></a> </p>
+<p align="center">
+  <img src="https://github.com/ngockhanh21.png" width="150" height="150" style="border-radius: 50%;" />
+</p>
 
 - 🔭 I’m currently a freshman at **Thuy Loi University (TLU)**
 
@@ -45,9 +47,9 @@
 
 <p align="left"><b>🔧 Other Tools</b></p>
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.zone/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
 <br/>
@@ -58,4 +60,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngockhanh21&" alt="ngockhanh21" />
+</p>
+
+📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ngockhanh21&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngockhanh21&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
