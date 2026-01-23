@@ -7,25 +7,27 @@
   <img src="https://github.com/ngockhanh21.png" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
-- 🔭 I’m currently a freshman at **Thuy Loi University (TLU)**
+- 🔭 **I’m currently a freshman at Thuy Loi University (TLU)**
 
-- 🌱 I’m currently learning **Programming Languages, AI**
+- 🌱 **I’m currently learning Programming Languages, AI**
 
-- 🎯 My goal is to become **an AI Engineer and solve real-world problems.**
+- 🎯 **My goal is to become an AI Engineer and solve real-world problems.**
 
-- 🛠️ Recently mastered **setting up GitHub Copilot to speed up my workflow.**
+- 🛠️ **Recently mastered setting up GitHub Copilot to speed up my workflow.**
 
-- 🏆 Passionate about **Competitive Programming and currently training for ICPC.**
+- 🏆 **Passionate about Competitive Programming and currently training for ICPC.**
 
-- 🌱 I’m currently learning **Advanced C++ and Python for Machine Learning.**
+- 🌱 **I’m currently learning Advanced C++ and Python for Machine Learning.**
 
-- 📫 How to reach me **khanhngocbui.ai@gmail.com**
+- 📫 **How to reach me khanhngocbui.ai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/khanhngocbui_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khanhngocbui_ai" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ngockhanh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ngockhanh21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khanh bui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khanh bui" height="30" width="40" /></a>
+<a href="https://discord.gg/Bùi Ngọc Khánh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bùi Ngọc Khánh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khánh bùi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khánh bùi" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
