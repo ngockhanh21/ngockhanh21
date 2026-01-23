@@ -15,9 +15,9 @@
 
 - 🏆 Passionate about **Competitive Programming and currently training for ICPC.**
 
-- 📫 How to reach me **khanhngocbui.ai@gmail.com**
-
 - 🌱 I’m currently learning **Advanced C++ and Python for Machine Learning.**
+
+- 📫 How to reach me **khanhngocbui.ai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
