@@ -56,13 +56,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngockhanh21&show_icons=true&locale=en&layout=compact" alt="ngockhanh21" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngockhanh21&" alt="ngockhanh21" />
-</p>
 
 📊 GitHub Stats:
 <p align="center">
