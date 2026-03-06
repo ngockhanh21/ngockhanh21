@@ -59,6 +59,7 @@
 
 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ngockhanh21&show_icons=true&theme=tokyonight&v=1" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngockhanh21&layout=compact&theme=tokyonight&abc=123" alt="Top Langs" />
+  <img src="https://github-readme-stats-re-rho.vercel.app/api?username=ngockhanh21&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats-re-rho.vercel.app/api/top-langs?username=ngockhanh21&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 </p>
