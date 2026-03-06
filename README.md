@@ -57,9 +57,9 @@
 <br/>
 
 
-📊 GitHub Stats:
+📊 Metrics:
 <p align="center">
-  <img src="https://github-readme-stats-re-rho.vercel.app/api?username=ngockhanh21&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats-re-rho.vercel.app/api/top-langs?username=ngockhanh21&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://metrics.lecoq.io/ngockhanh21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html,css&theme=tokyonight" alt="Metrics" />
+</p>
 </p>
 </p>
