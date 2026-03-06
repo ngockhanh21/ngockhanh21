@@ -59,7 +59,5 @@
 
 📊 Metrics:
 <p align="center">
-  <img src="https://metrics.lecoq.io/ngockhanh21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html,css&theme=tokyonight" alt="Metrics" />
-</p>
-</p>
+  <img src="https://github.com/ngockhanh21/ngockhanh21/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
