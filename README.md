@@ -1,10 +1,10 @@
 <h1 align="center">Hi guys 👋, I'm Khanh Bui</h1>
-<h3 align="center">Freshman  TLU | Passionate about AI Research & Development</h3>
+<h3 align="center">Sophomore TLU | Passionate about AI Research & Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngockhanh21&label=Profile%20views&color=0e75b6&style=flat" alt="ngockhanh21" /> </p>
 
 ### About me <br>
-I'm currently a freshman student majoring in Artificial Intelligence at Thuy Loi University (TLU).I'm currently studying fundamental courses to prepare for my major. 
+I'm currently a sophomore student majoring in Artificial Intelligence at Thuy Loi University (TLU).I'm currently studying fundamental courses to prepare for my major. 
 
 My primary language is Python and C++, My interests include solving practical problems, competitive programming and designing visually aesthetic web pages.
 
