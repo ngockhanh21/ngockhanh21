@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngockhanh21&label=Profile%20views&color=0e75b6&style=flat" alt="ngockhanh21" /> </p>
 
 ### About me <br>
-I'm currently a sophomore student majoring in Artificial Intelligence at Thuy Loi University (TLU).I'm currently studying fundamental courses to prepare for my major. 
+I'm currently a sophomore student majoring in Artificial Intelligence at Thuy Loi University (TLU).I'm currently studying disciplinary foundation units to prepare for higher-level skills in their field. 
 
 My primary language is Python and C++, My interests include solving practical problems, competitive programming and designing visually aesthetic web pages.
 
