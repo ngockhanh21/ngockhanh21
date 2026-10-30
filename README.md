@@ -12,8 +12,8 @@ I hope to grow into a AI engineer and an independent developer known for creatin
 
 I'm very much looking forward to connecting with like-minded individuals and professionals in the field of Artificial Intelligence engineering. Collaborating would be a great honor for me.
 
-<p>
-  <strong>Connect with me:</strong>
+  <h3>Connect with me:</h3>
+  <p>
   <a href="https://discord.gg/Bùi Ngọc Khánh" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="vertical-align: middle;" />
   </a>
