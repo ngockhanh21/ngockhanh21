@@ -12,35 +12,46 @@ I hope to grow into a AI engineer and an independent developer known for creatin
 
 I'm very much looking forward to connecting with like-minded individuals and professionals in the field of Artificial Intelligence engineering. Collaborating would be a great honor for me.
 
-<h3 align="left">Connect with me: &nbsp;
-  <a href="https://discord.gg/Bùi Ngọc Khánh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" style="vertical-align:middle; margin: 0 5px;" /></a>
-  <a href="https://linkedin.com/in/khánh-bùi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" style="vertical-align:middle; margin: 0 5px;" /></a>
-  <a href="mailto:khanhngocbui.ai@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" style="vertical-align:middle; margin: 0 5px;" /></a>
-</h3>
-
-### Languages and Tools:
-
-<p align="left">
-  <b>Core & AI Development:</b> &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/>  
+<p>
+  <strong>Connect with me:</strong>
+  <a href="https://discord.gg/Bùi Ngọc Khánh" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="vertical-align: middle;" />
   </a>
-  </p>
-
-<p align="left">
-   <b>Web Development:</b> &nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
+  <a href="https://linkedin.com/in/khánh-bùi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;" />
+  </a>
+  <a href="mailto:khanhngocbui.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;" />
+  </a>
 </p>
 
-<p align="left">
-   <b>Other Tools:</b> &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
-  <img src="http://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"  alt="ubuntu" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter-notebook" width="35" height="35"/>
+
+<h3> Languages and Tools:</h3>
+
+<p>
+  <strong>AI & Core Development:</strong>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" style="vertical-align: middle;" />
 </p>
 
-<br/>
+<p>
+  <strong>Data & Storage:</strong>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" style="vertical-align: middle;" />
+</p>
 
+<p>
+  <strong>Web Development:</strong>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="vertical-align: middle;" />
+</p>
+
+<p>
+  <strong>Dev Tools & Environment:</strong>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align: middle;" />
+</p>
 
 📊 Metrics:
 <p align="center">
