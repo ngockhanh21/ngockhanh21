@@ -17,7 +17,7 @@ I'm very much looking forward to connecting with like-minded individuals and pro
   <a href="https://discord.gg/Bùi Ngọc Khánh" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="vertical-align: middle;" />
   </a>
-  <a href="https://linkedin.com/in/khánh-bùi" target="_blank">
+  <a href="https://www.linkedin.com/in/khanh-bui21/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;" />
   </a>
   <a href="mailto:khanhngocbui.ai@gmail.com">
