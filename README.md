@@ -53,7 +53,4 @@ I'm very much looking forward to connecting with like-minded individuals and pro
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align: middle;" />
 </p>
 
-📊 Metrics:
-<p align="center">
-  <img src="https://github.com/ngockhanh21/ngockhanh21/blob/main/github-metrics.svg" alt="Metrics" />
-</p>
+
