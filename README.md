@@ -53,4 +53,11 @@ I'm very much looking forward to connecting with like-minded individuals and pro
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align: middle;" />
 </p>
 
+### GitHub stats:
 
+<p align="center">
+  <img src="https://github.com/ngockhanh21/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="Overview" width="49%" />
+  <img src="https://github.com/ngockhanh21/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="Overview" width="49%" />
+  <img src="https://github.com/ngockhanh21/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Languages" width="49%" />
+  <img src="https://github.com/ngockhanh21/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Languages" width="49%" />
+</p>
